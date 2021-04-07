@@ -12,7 +12,7 @@
         if (inputArr[i].name == "title")
             domTitle = inputArr[i];
     }
-
+     
     var html =
         '<div style="border: 1px solid black;"><p>NickName: ' +
         domNickname.value + "</p><p> Time: " +
